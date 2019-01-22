@@ -1,1 +1,3 @@
-# TodoList
+### TodoList
+
+Simple Todo-List in java
